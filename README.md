@@ -63,19 +63,6 @@ O projeto foi inteiramente planejado para telas de todos os tamanhos:
 └── js/
     └── script.js       # Lógica do menu mobile e scroll suave
 ```
-
----
-
-## 🛠️ Como rodar o projeto localmente
-
-Como o projeto é estático (apenas Front-End base), a execução é muito simples:
-
-1. Baixe os arquivos para o seu computador.
-2. Dê um duplo clique no arquivo **`index.html`**.
-3. O site abrirá automaticamente no seu navegador padrão (Chrome, Safari, Edge, etc).
-
-*(Dica: Se quiser simular um servidor para evitar problemas de CORS futuro ou testar no celular via Wi-Fi, recomendamos usar a extensão "Live Server" no VS Code).*
-
 ---
 
 ## ✉️ Contato
