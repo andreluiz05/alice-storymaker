@@ -4,7 +4,7 @@
 
 **🌐 Acesso ao vivo:** [alice-storymaker.vercel.app](https://alice-storymaker.vercel.app/)
 
-Um portfólio web de alta performance desenvolvido para destacar o trabalho fotográfico de **Alice Storymaker**. O projeto foi construído com foco em **Design Premium (High-End Visual Design)**, performance e usabilidade impecável em qualquer dispositivo (Mobile-First).
+Um portfólio web de alta performance desenvolvido para destacar o trabalho de **Alice Storymaker**. O projeto foi construído com foco em **Design Premium (High-End Visual Design)**, performance e usabilidade impecável em qualquer dispositivo (Mobile-First).
 
 ---
 
