@@ -1,6 +1,6 @@
 # ✨ Alice Storymaker
 
-> **Fotografia autoral com sensibilidade, elegância e compromisso com a sua história.**
+> **Mídias e Fotografia autoral com sensibilidade, elegância e compromisso com a sua história.**
 
 **🌐 Acesso ao vivo:** [alice-storymaker.vercel.app](https://alice-storymaker.vercel.app/)
 
